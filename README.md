@@ -20,16 +20,7 @@ STEP:6 Click the simulation to simulate the program and give the inputs and veri
 
 STEP:7 Select the Implementation in the Sources Window and select the required file in the Processes Window.
 
-STEP:8 Select Check Syntax from the Synthesize XST Process. Double Click in the Floorplan Area/IO/Logic-Post Synthesis process in the User Constraints process group. UCF(User constraint File) is obtained. 
-
-STEP:9 In the Design Object List Window, enter the pin location for each pin in the Loc column Select save from the File menu.
-
-STEP:10 Double click on the Implement Design and double click on the Generate Programming File to create a bitstream of the design.(.v) file is converted into .bit file here.
-
-STEP:12 Load the Bit file into the SPARTAN 6 FPGA 
-
-STEP:11 On the board, by giving required input, the LEDs starts to glow light, indicating the output.
-
+STEP:8  Compare the output with logic truth table.
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/FULL_ADDER/assets/154305926/02ead8f5-d958-4c89-ac51-368ca086cf41)
 # Circuit Diagram
