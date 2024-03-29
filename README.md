@@ -24,7 +24,7 @@ STEP:8  Compare the output with logic truth table.
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/FULL_ADDER/assets/154305926/02ead8f5-d958-4c89-ac51-368ca086cf41)
 # Circuit Diagram
-![image](https://github.com/RESMIRNAIR/FULL_ADDER/assets/154305926/418e00aa-ed19-4ab3-a413-bae9575bff0e)
+![Full-adder](https://github.com/Shaiksushma123/FULL_ADDER/assets/159005642/732d441e-e9c6-4775-b4b8-e45f6fcc85e5)
 
 # Boolean Expression
 ![image](https://github.com/RESMIRNAIR/FULL_ADDER/assets/154305926/0c26fe47-d78c-43dd-ac0d-804e427a3bbc)
